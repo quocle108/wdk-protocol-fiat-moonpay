@@ -1,7 +1,8 @@
 {
   "name": "@tetherto/wdk-protocol-fiat-moonpay",
   "version": "1.0.0-beta.3",
-  "description": "A simple package that lets @tetherto/wdk-wallet accounts interact with the MoonPay protocol",
+  "description": "MoonPay on-ramp and off-ramp module for WDK (Wallet Development Kit) by Tether, with widget URLs and quotes.",
+  "homepage": "https://docs.wdk.tether.io/sdk/fiat-modules/fiat-moonpay/",
   "keywords": [
     "wdk",
     "protocol",

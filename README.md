@@ -2,11 +2,13 @@
 
 Note: This package is in beta. Please test in a dev setup first.
 
-A simple way to integrate MoonPay widget for on-ramp and off-ramp services. You can generate signed or unsigned URLs for the MoonPay widget, get quotes for buying and selling crypto, and read protocol-related data. This package can be used in both frontend and backend environments.
+A MoonPay on-ramp and off-ramp module for WDK (Wallet Development Kit) by Tether. You can generate signed or unsigned URLs for the MoonPay widget, get quotes for buying and selling crypto, and read protocol-related data. This package can be used in both frontend and backend environments.
+
+See the [module documentation](https://docs.wdk.tether.io/sdk/fiat-modules/fiat-moonpay/).
 
 ## 🔍 About WDK
 
-This is part of WDK (Wallet Development Kit). WDK helps you build safe, non‑custody wallets. Read more at https://docs.wallet.tether.io.
+This is part of WDK (Wallet Development Kit). WDK helps you build safe, non‑custody wallets. Read more at https://docs.wdk.tether.io/.
 
 ## 🌟 Features
 
